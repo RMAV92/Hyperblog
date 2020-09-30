@@ -1,6 +1,6 @@
 Esta es la historia de RMAV
 
-RMAV tiene 27 años y nació en España,
+RMAV Vega tiene 27 años y nació en España,
 viviendo en todo el mundo
 
-Hoy hablaremos de su curso.
+Mañana seguimos con más git.
