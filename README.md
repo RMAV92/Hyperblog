@@ -8,14 +8,11 @@ Un blog increíble para practicar el [ curso de Git y Github](https://platzi.com
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * La importancia de seguir unas buenas prácticas
-* Trucos sobre Git de un profsional como Freddy.77
+* Trucos sobre Git de un profesional como Freddy.
 * Creado por el increible Platzi Team
-<<<<<<< HEAD
-
-=======
 * Incluye ejemplos en Windows , Linus y Mac
-* Displonible para todas las edades 
->>>>>>> readme_mejorado
+* Disponible para todas las edades 
+
 Y como un amable recordatorio: **Este readme.md tiene un toque ironico **.  Diseñado para el ejemplo, que yo he aprovechado para practicar un poco más....
 
 Si llegas hasta aquí,  NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
