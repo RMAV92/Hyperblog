@@ -10,7 +10,7 @@ Un blog increíble para practicar el [ curso de Git y Github](https://platzi.com
 * La importancia de seguir unas buenas prácticas
 * Trucos sobre Git de un profsional como Freddy.77
 * Creado por el increible Platzi Team
-
+* Incluye ejemplos en Windows , Linus y Mac
 Y como un amable recordatorio: **Este readme.md tiene un toque ironico **.  Diseñado para el ejemplo, que yo he aprovechado para practicar un poco más....
 
 Si llegas hasta aquí,  NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
